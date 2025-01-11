@@ -1,0 +1,16 @@
+{
+	"id": "rw-karma-deck",
+	"name": "Rain World Karma Deck",
+	"display_name": "RW Karma Deck",
+	"author": ["LawyerRed"],
+	"description": "Changes the design of number cards and aces to use Rain World's karma system.",
+	"prefix": "rw-karma",
+	"main_file": "RW-Karma-Deck.lua",
+	"priority": 0,
+	"badge_colour": "DF4A5E",
+	"badge_text_colour": "FFFFFF",
+	"version": "1.0.0",
+	"dependencies": [
+		"Steamodded (>=1.*)"
+	]
+}
