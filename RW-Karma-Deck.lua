@@ -12,7 +12,7 @@ SMODS.Atlas{
     px = 71,
     py = 95,
     path = atlas_path,
-    prefix_config = {key = false}, -- See end of file for notes
+    prefix_config = {key = false},
 }
 
 if atlas_path_hc then
@@ -21,7 +21,7 @@ if atlas_path_hc then
         px = 71,
         py = 95,
         path = atlas_path_hc,
-        prefix_config = {key = false}, -- See end of file for notes
+        prefix_config = {key = false},
     }
 end
 
