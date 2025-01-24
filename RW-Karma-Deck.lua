@@ -5,7 +5,7 @@ local atlas_path_hc = 'RW-Karma-Deck-HC.png'
 local suits = {'hearts', 'clubs', 'diamonds', 'spades'}
 local ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",}
 
-local description = 'Rain World Karma Deck'
+local description = 'Rain World'
 
 SMODS.Atlas{  
     key = atlas_key..'_lc',
