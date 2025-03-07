@@ -2,15 +2,15 @@
 	"id": "rwKarmaDeck",
 	"name": "Rain World Karma Deck",
 	"display_name": "RW Karma Deck",
-	"author": ["LawyerRed"],
+	"author": ["LawyerRed", "SpomJ"],
 	"description": "Changes the design of cards to use Rain World's characters and karma system.",
 	"prefix": "rwKarma",
 	"main_file": "RW-Karma-Deck.lua",
 	"priority": 0,
 	"badge_colour": "DF4A5E",
 	"badge_text_colour": "FFFFFF",
-	"version": "1.1.1",
+	"version": "1.2.0",
 	"dependencies": [
-		"Steamodded (>=1.*)"
+		"Steamodded (>=1.0.0~ALPHA-1404b)"
 	]
 }
